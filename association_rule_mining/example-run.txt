@@ -1,0 +1,32 @@
+===================================
+ Frequent itemsets (min_supp=5.0%)
+===================================
+['$75,000+', 'high school'], 17.612%
+['high school', '$75,000+'], 17.612%
+['high school', '$50,000-$75,000'], 12.666%
+['DEPT OF HEALTH/MENTAL HYGIENE', '$50,000-$75,000'], 11.098%
+['bachelor', '$50,000-$75,000'], 11.098%
+['high school', '$25,000-$50,000'], 10.555%
+['bachelor', '$75,000+'], 10.253%
+['$75,000+', 'license'], 9.71%
+['DEPT OF ENVIRONMENT PROTECTION', 'license'], 8.504%
+['DEPT OF ENVIRONMENT PROTECTION', 'high school'], 8.504%
+['high school', 'license'], 7.78%
+['bachelor', 'DEPT OF HEALTH/MENTAL HYGIENE'], 7.66%
+['$75,000+', 'DEPT OF HEALTH/MENTAL HYGIENE'], 7.238%
+['DEPT OF ENVIRONMENT PROTECTION', '$50,000-$75,000'], 6.936%
+['master', 'DEPT OF HEALTH/MENTAL HYGIENE'], 6.815%
+['DEPT OF ENVIRONMENT PROTECTION', '$75,000+'], 6.454%
+['license', '$50,000-$75,000'], 6.393%
+['master', '$50,000-$75,000'], 5.85%
+['DEPT OF INFO TECH & TELECOMM', 'high school'], 5.85%
+['DEPT OF ENVIRONMENT PROTECTION', 'bachelor'], 5.549%
+['bachelor', 'DEPT OF ENVIRONMENT PROTECTION'], 5.549%
+
+====================================================
+ High-confidence association rules (min_conf=50.0%)
+====================================================
+['DEPT OF INFO TECH & TELECOMM'] => ['high school'] (Conf: 80.165%, Supp: 5.85%)
+['master'] => ['DEPT OF HEALTH/MENTAL HYGIENE'] (Conf: 74.342%, Supp: 6.815%)
+['master'] => ['$50,000-$75,000'] (Conf: 63.816%, Supp: 5.85%)
+['$25,000-$50,000'] => ['high school'] (Conf: 51.775%, Supp: 10.555%)
