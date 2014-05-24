@@ -8,7 +8,7 @@ The purpose of this assignment was to implement the apriori algorithm on a real-
 Running
 -------
 The program is written in Python version 2.7. To run:
->python main.py INTEGRATED-DATASET.csv <MIN_SUPP> <MIN_CONF>
+>python main.py INTEGRATED-DATASET.csv \<MIN_SUPP\> \<MIN_CONF\>
 
 MIN\_SUPP and MIN\_CONF should be numbers between 0 and 1.
 
