@@ -1,5 +1,6 @@
 COMS E6111 Advanced Database Systems<br/>
-Project #3: Association Rule Mining
+Project #3: Association Rule Mining<br/>
+Partner: [Alex Dong](https://github.com/namespacestd)
 
 Assignment
 ----------
